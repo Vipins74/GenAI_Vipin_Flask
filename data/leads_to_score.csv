@@ -1,0 +1,6 @@
+lead_id,age,country,source,pages_viewed,ad_spent
+101,29,US,organic,4,0.0
+102,35,UK,ad,3,12.5
+103,27,CA,referral,2,0.0
+104,43,DE,email,7,19.0
+105,31,US,organic,5,0.0
